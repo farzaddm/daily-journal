@@ -38,7 +38,7 @@ sudo systemctl start mongod
    ```
 
 ## Usage
-To write a new diary entry, navigate to http://localhost:3000/compose in your web browser.
+To write a new diary entry, navigate to `http://localhost:3000/compose` in your web browser.
 
 
 
